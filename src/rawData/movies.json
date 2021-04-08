@@ -1,0 +1,1179 @@
+[
+        {
+            "adult": false,
+            "backdrop_path": "/xRI636TOdS1K1GBqIBRSmfZ1T5x.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "id": 19404,
+            "original_language": "hi",
+            "original_title": "दिलवाले दुल्हनिया ले जायेंगे",
+            "overview": "Los Singh son una familia india con grandes convicciones culturales de su nación de origen, que emigraron a Reino Unido antes de nacer sus primeros hijos. Uno de ellos querrá casarse con una mujer ajena a su cultura y para ello deberá hacer todos los esfuerzos por convencer a su familia.",
+            "popularity": 27.595,
+            "poster_path": "/2CAL2433ZeIihfX1Hb2139CX0pW.jpg",
+            "release_date": "1995-10-20",
+            "title": "Un amor contra viento y marea",
+            "video": false,
+            "vote_average": 8.7,
+            "vote_count": 2776
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iNh3BivHyg5sQRPP1KOkzguEX0H.jpg",
+            "genre_ids": [
+                18,
+                80
+            ],
+            "id": 278,
+            "original_language": "en",
+            "original_title": "The Shawshank Redemption",
+            "overview": "Acusado del asesinato de su mujer, Andrew Dufresne, tras ser condenado a cadena perpetua, es enviado a la prisión de Shawshank. Con el paso de los años conseguirá ganarse la confianza del director del centro y el respeto de sus compañeros presidiarios, especialmente de Red, el jefe de la mafia de los sobornos.",
+            "popularity": 59.145,
+            "poster_path": "/dc1fX265fZIIY5Hab8I7CdETyJy.jpg",
+            "release_date": "1994-09-23",
+            "title": "Cadena perpetua",
+            "video": false,
+            "vote_average": 8.7,
+            "vote_count": 18660
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jtAI6OJIWLWiRItNSZoWjrsUtmi.jpg",
+            "genre_ids": [
+                10749
+            ],
+            "id": 724089,
+            "original_language": "en",
+            "original_title": "Gabriel's Inferno Part II",
+            "overview": "Basado en la novela más vendida de Sylvain Reynard, el profesor Gabriel Emerson se ha embarcado en un apasionado pero clandestino romance con su antigua alumna, Julia Mitchell.",
+            "popularity": 9.236,
+            "poster_path": "/pci1ArYW7oJ2eyTo2NMYEKHHiCP.jpg",
+            "release_date": "2020-07-31",
+            "title": "Gabriel's Inferno Part II",
+            "video": false,
+            "vote_average": 8.7,
+            "vote_count": 1227
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fQq1FWp1rC89xDrRMuyFJdFUdMd.jpg",
+            "genre_ids": [
+                10749,
+                35
+            ],
+            "id": 761053,
+            "original_language": "en",
+            "original_title": "Gabriel's Inferno Part III",
+            "overview": "",
+            "popularity": 34.739,
+            "poster_path": "/fYtHxTxlhzD4QWfEbrC1rypysSD.jpg",
+            "release_date": "2020-11-19",
+            "title": "El infierno de Gabriel Parte 3",
+            "video": false,
+            "vote_average": 8.7,
+            "vote_count": 778
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rSPw7tgCH9c6NqICZef4kZjFOQ5.jpg",
+            "genre_ids": [
+                18,
+                80
+            ],
+            "id": 238,
+            "original_language": "en",
+            "original_title": "The Godfather",
+            "overview": "Don Vito Corleone, conocido dentro de los círculos del hampa como \"El Padrino\", es el patriarca de una de las cinco familias que ejercen el mando de la Cosa Nostra en Nueva York en los años 40. Don Corleone tiene cuatro hijos; una chica, Connie, y tres varones, Sonny, Michael y Freddie, al que envían exiliado a Las Vegas, dada su incapacidad para asumir puestos de mando en la \"Familia\". Cuando el Padrino reclina intervenir en el negocio de estupefacientes, empieza una cruenta lucha de violentos episodios entre las distintas familias del crimen organizado.",
+            "popularity": 56.523,
+            "poster_path": "/wLXd1Cd0XW7DhXayfC0Ok5ago9r.jpg",
+            "release_date": "1972-03-14",
+            "title": "El padrino",
+            "video": false,
+            "vote_average": 8.7,
+            "vote_count": 14077
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/w2uGvCpMtvRqZg6waC1hvLyZoJa.jpg",
+            "genre_ids": [
+                10749
+            ],
+            "id": 696374,
+            "original_language": "en",
+            "original_title": "Gabriel's Inferno",
+            "overview": "El enigmático y atractivo profesor Gabriel Emerson, reconocido especialista en Dante, es un hombre torturado por su pasado y orgulloso del prestigio que ha conseguido, aunque también es consciente de que es un imán para el pecado y, en especial, para la lujuria.",
+            "popularity": 9.786,
+            "poster_path": "/oyG9TL7FcRP4EZ9Vid6uKzwdndz.jpg",
+            "release_date": "2020-05-29",
+            "title": "Gabriel's Inferno",
+            "video": false,
+            "vote_average": 8.7,
+            "vote_count": 2006
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pcDc2WJAYGJTTvRSEIpRZwM3Ola.jpg",
+            "genre_ids": [
+                28,
+                12,
+                14,
+                878
+            ],
+            "id": 791373,
+            "original_language": "en",
+            "original_title": "Zack Snyder's Justice League",
+            "overview": "Con la determinación de asegurar que el sacrificio definitivo de Superman no fue en vano, Bruce Wayne une fuerzas con Diana Prince para reclutar a un equipo de metahumanos que protejan el mundo de una amenaza inminente de proporciones catastróficas. La tarea es más difícil de lo que Bruce imaginaba, ya que cada uno de los reclutas deberá enfrentarse a sus propios demonios para trascender aquello que los detenía, para unirse y formar de manera definitiva una liga de héroes sin precedentes. Ahora unidos, Batman, Wonder Woman, Aquaman, Cyborg y Flash deberán salvar al planeta de la amenaza de Steppenwolf, DeSaad y Darkseid, antes de que sea demasiado tarde.",
+            "popularity": 7035.397,
+            "poster_path": "/rkuvJnamPl3xW9wKJsIS6qkmOCW.jpg",
+            "release_date": "2021-03-18",
+            "title": "La Liga de la Justicia de Zack Snyder",
+            "video": false,
+            "vote_average": 8.6,
+            "vote_count": 4492
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ajEy9GDnAvKDNClDTNvGEEV0Jub.jpg",
+            "genre_ids": [
+                10751,
+                12,
+                16,
+                14
+            ],
+            "id": 441130,
+            "original_language": "en",
+            "original_title": "Wolfwalkers",
+            "overview": "La joven Robyn viaja a Irlanda con su padre para participar en una cacería de lobos. Todo se complica cuando conoce a Mebh, una niña misteriosa que vive en el bosque y de la que dicen que por las noches, junto a su tribu nómada, se transforma en lobo.",
+            "popularity": 29.346,
+            "poster_path": "/nIWCrXAqxUuIDxMKAiTem5cKg67.jpg",
+            "release_date": "2020-10-26",
+            "title": "Wolfwalkers",
+            "video": false,
+            "vote_average": 8.6,
+            "vote_count": 372
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/loRmRzQXZeqG78TqZuyvSlEQfZb.jpg",
+            "genre_ids": [
+                18,
+                36,
+                10752
+            ],
+            "id": 424,
+            "original_language": "en",
+            "original_title": "Schindler's List",
+            "overview": "Oskar Schindler, un hombre de enorme astucia y talento para las relaciones públicas, organiza un ambicioso plan para ganarse la simpatía de los nazis. Después de la invasión de Polonia por los alemanes, consigue, gracias a sus relaciones con los nazis, la propiedad de una fábrica de Cracovia. Allí emplea a cientos de operarios judíos, cuya explotación le hace prosperar rápidamente. Su gerente, también judío, es el verdadero director en la sombra, pues Schindler no tiene el menor conocimiento industrial.",
+            "popularity": 45.417,
+            "poster_path": "/3Ho0pXsnMxpGJWqdOi0KDNdaTkT.jpg",
+            "release_date": "1993-11-30",
+            "title": "La lista de Schindler",
+            "video": false,
+            "vote_average": 8.6,
+            "vote_count": 11206
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/poec6RqOKY9iSiIUmfyfPfiLtvB.jpg",
+            "genre_ids": [
+                18,
+                80
+            ],
+            "id": 240,
+            "original_language": "en",
+            "original_title": "The Godfather: Part II",
+            "overview": "Continuación de la saga de los Corleone con dos historias paralelas: la elección de Michael Corleone como jefe de los negocios familiares y los orígenes del patriarca, el ya fallecido Don Vito, primero en Sicilia y luego en Estados Unidos, donde, empezando desde abajo, llegó a ser un poderosísimo jefe de la mafia de Nueva York.",
+            "popularity": 36.396,
+            "poster_path": "/iJqEycKV96JCBWqx2Ij38Ufa8EH.jpg",
+            "release_date": "1974-12-20",
+            "title": "El padrino. Parte II",
+            "video": false,
+            "vote_average": 8.6,
+            "vote_count": 8399
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dIWwZW7dJJtqC6CgWzYkNVKIUm8.jpg",
+            "genre_ids": [
+                10749,
+                16,
+                18
+            ],
+            "id": 372058,
+            "original_language": "ja",
+            "original_title": "君の名は。",
+            "overview": "La “historia de milagros y amor” gira en torno a Mitsuha y Taki. Mitsuha es una estudiante de secundaria que vive en un pueblo rural situado en las montañas. Su padre es el alcalde y no pasa mucho por casa, ella vive con su hermana pequeña estudiante de primaria y su abuela, ni ella ni su padre participan en una campaña electoral. Ella se lamenta de que vive confinada en un pueblo rural y anhela el maravilloso estilo de vida de Tokio. Taki es un estudiante de secundaria que vive en el centro de Tokio. Él pasa su tiempo junto a sus amigos, trabajando a tiempo parcial en un restaurante italiano y está interesado en la arquitectura y las bellas artes. Un día, Mitsuha tiene un sueño en el que ella tiene el cuerpo de un hombre joven. Taki también tiene un sueño parecido y en el que él es una estudiante de secundaria en un pueblo en las montañas en él que nunca ha estado. ¿Cuál es el secreto de sus sueños?",
+            "popularity": 115.966,
+            "poster_path": "/zCbmvY5pqUx7Kn5qifW6NqtmaB2.jpg",
+            "release_date": "2016-08-26",
+            "title": "Your name",
+            "video": false,
+            "vote_average": 8.6,
+            "vote_count": 7298
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/Ab8mkHmkYADjU7wQiOkia9BzGvS.jpg",
+            "genre_ids": [
+                16,
+                10751,
+                14
+            ],
+            "id": 129,
+            "original_language": "ja",
+            "original_title": "千と千尋の神隠し",
+            "overview": "Chihiro es una niña de diez años que está mudándose con sus padres a un nuevo hogar. Por el camino, la familia se topa con un enorme edificio rojo en cuyo centro se abre un largo túnel. Al otro lado del pasadizo se dibuja una ciudad fantasma. En el restaurante abandonado de esta ciudad, los padres de Chihiro encuentran una gran variedad de platos deliciosos y deciden quedarse a comer, pero, al probar bocado, se transforman en cerdos. Presa del pánico, Chihiro huye y empieza a desmaterializarse poco a poco. El enigmático Haku le explicará el funcionamiento del universo en el que ha caído. Para salvar a sus padres, la niña tendrá que enfrentarse a la terrible Yubaba, que tiene el aspecto de una arpía diabólica.",
+            "popularity": 68.831,
+            "poster_path": "/wn0wOGqFKl5hF4If8ev78mn4LGY.jpg",
+            "release_date": "2001-07-20",
+            "title": "El viaje de Chihiro",
+            "video": false,
+            "vote_average": 8.5,
+            "vote_count": 11165
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/TU9NIjwzjoKPwQHoHshkFcQUCG.jpg",
+            "genre_ids": [
+                35,
+                53,
+                18
+            ],
+            "id": 496243,
+            "original_language": "ko",
+            "original_title": "기생충",
+            "overview": "Tanto Gi Taek como su familia están sin trabajo. Cuando su hijo mayor, Gi Woo, empieza a recibir clases particulares en casa de Park, las dos familias, que tienen mucho en común pese a pertenecer a dos mundos totalmente distintos, comienzan una interrelación de resultados imprevisibles.",
+            "popularity": 184.806,
+            "poster_path": "/4N55tgxDW0RRATyrZHbx0q9HUKv.jpg",
+            "release_date": "2019-05-30",
+            "title": "Parásitos",
+            "video": false,
+            "vote_average": 8.5,
+            "vote_count": 11059
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jMWkd0fuwbG39eJpzycJzPWMCww.jpg",
+            "genre_ids": [
+                28,
+                878
+            ],
+            "id": 399566,
+            "original_language": "en",
+            "original_title": "Godzilla vs. Kong",
+            "overview": "Godzilla y Kong, dos de las fuerzas más poderosas de un planeta habitado por todo tipo de aterradoras criaturas, se enfrentan en un espectacular combate que sacude los cimientos de la humanidad. Monarch (Kyle Chandler) se embarca en una misión de alto riesgo y pone rumbo hacia territorios inexplorados para descubrir los orígenes de estos dos titanes, en un último esfuerzo por tratar de salvar a dos bestias que parecen tener las horas contadas sobre la faz de la Tierra.",
+            "popularity": 20353.424,
+            "poster_path": "/bnuC6hu7AB5dYW26A3o6NNLlIlE.jpg",
+            "release_date": "2021-03-24",
+            "title": "Godzilla vs Kong",
+            "video": false,
+            "vote_average": 8.5,
+            "vote_count": 3368
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xMIyotorUv2Yz7zpQz2QYc8wkWB.jpg",
+            "genre_ids": [
+                14,
+                18,
+                80
+            ],
+            "id": 497,
+            "original_language": "en",
+            "original_title": "The Green Mile",
+            "overview": "En el sur de los Estados Unidos, en plena Depresión, Paul Edgecomb es un vigilante penitenciario a cargo de la Milla Verde, un pasillo que separa las celdas de los reclusos condenados a la silla eléctrica. Esperando su ejecución está John Coffey, un gigantesco negro acusado de asesinar brutalmente a dos hermanas de nueve años. Tras una personalidad ingenua, Coffey esconde un don sobrenatural prodigioso. A medida que transcurre la historia, Paul Edgecomb aprende que los milagros ocurren... incluso en los lugares más insospechados.",
+            "popularity": 43.416,
+            "poster_path": "/1EFS40uFzv5ZVLSpu3xqYqnou67.jpg",
+            "release_date": "1999-12-10",
+            "title": "La milla verde",
+            "video": false,
+            "vote_average": 8.5,
+            "vote_count": 12053
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1fOsyhVz5qyX2rl1qqX6KImVhTx.jpg",
+            "genre_ids": [
+                18,
+                35
+            ],
+            "id": 644479,
+            "original_language": "es",
+            "original_title": "Dedicada a mi ex",
+            "overview": "La película cuenta la historia de Ariel, un joven de 21 años que decide formar una banda de rock para competir por un premio de diez mil dólares en un concurso de bandas musicales, esta es la última opción cuando intenta obtener dinero para salvar su relación. y se reúne con su ex novia, que se rompe debido al viaje que debe hacer a Finlandia para una pasantía. Ariel con su amiga Ortega, decide hacer un casting para encontrar a los otros miembros de la banda, aunque no saben nada de música, formando así una banda con miembros que tienen personalidades diversas y opuestas.",
+            "popularity": 39.23,
+            "poster_path": "/riAooJrFvVhotyaOgoI0WR7okSe.jpg",
+            "release_date": "2019-11-01",
+            "title": "Dedicada a mi ex",
+            "video": false,
+            "vote_average": 8.5,
+            "vote_count": 364
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/w7RDIgQM6bLT7JXtH4iUQd3Iwxm.jpg",
+            "genre_ids": [
+                53,
+                80
+            ],
+            "id": 680,
+            "original_language": "en",
+            "original_title": "Pulp Fiction",
+            "overview": "Jules y Vincent, dos asesinos a sueldo con muy pocas luces, trabajan para Marsellus Wallace. Vincent le confiesa a Jules que Marsellus le ha pedido que cuide de Mia, su mujer. Jules le recomienda prudencia porque es muy peligroso sobrepasarse con la novia del jefe. Cuando llega la hora de trabajar, ambos deben ponerse manos a la obra. Su misión: recuperar un misterioso maletín.",
+            "popularity": 54.389,
+            "poster_path": "/hNcQAuquJxTxl2fJFs1R42DrWcf.jpg",
+            "release_date": "1994-09-10",
+            "title": "Pulp Fiction",
+            "video": false,
+            "vote_average": 8.5,
+            "vote_count": 20868
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/m5HPKCi7GdhKmxPTcOQmcLfEmZ9.jpg",
+            "genre_ids": [
+                12,
+                35,
+                16,
+                14
+            ],
+            "id": 532067,
+            "original_language": "ja",
+            "original_title": "この素晴らしい世界に祝福を！紅伝説",
+            "overview": "La vida del amante de los videojuegos, Satou Kazuma, termina cuando es arrollado por un camión. En un inesperado giro del destino reencarna en otro mundo gracias a la diosa Aqua, a una torpe hechicera llamada Megumin y a una delirante caballero llamada Darkness. En esta película este peculiar grupo se enfrentará a una increíble amenaza. ¿Podrán salvar la Villa Carmesí? ¿Qué pasará con Kazuma?",
+            "popularity": 223.313,
+            "poster_path": "/lnlEWSvfiHbQOgVyfnEqU1q31Yg.jpg",
+            "release_date": "2019-08-30",
+            "title": "Kono Subarashii Sekai ni Shukufuku wo!: Kurenai Densetsu",
+            "video": false,
+            "vote_average": 8.5,
+            "vote_count": 242
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qqHQsStV6exghCM7zbObuYBiYxw.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 389,
+            "original_language": "en",
+            "original_title": "12 Angry Men",
+            "overview": "Tras escuchar todos los testimonios y valorar las pruebas presentadas, un jurado popular compuesto por doce hombres tiene que decidir, por unanimidad, si absuelve o condena a muerte a un joven acusado de haber matado a su padre. Al principio, once están completamente convencidos de su culpabilidad y se inclinan por la condena, pero el que discrepa empieza a plantear dudas razonables que, poco a poco, van resquebrajando la inicial seguridad de los demás. Alabadísimo debut cinematográfico de Sidney Lumet.",
+            "popularity": 21.048,
+            "poster_path": "/qyVoDb3EKO5SnhpSRpztNmZjo70.jpg",
+            "release_date": "1957-04-10",
+            "title": "12 hombres sin piedad",
+            "video": false,
+            "vote_average": 8.5,
+            "vote_count": 5476
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uWVkEo9PWHu9algZsiLPi6sRU64.jpg",
+            "genre_ids": [
+                36,
+                10402,
+                18
+            ],
+            "id": 556574,
+            "original_language": "en",
+            "original_title": "Hamilton",
+            "overview": "La historia gira en torno a los padres fundadores de los Estados Unidos, como George Washington y Thomas Jefferson, y a las experiencias vividas por Alexander Hamilton a lo largo de su vida, en la que se codeó con personajes históricos como Aaron Burr y John Laurens. A través de este musical en clave de hip hop, se puede ver cómo Hamilton fue un huérfano en el Caribe, un inmigrante en Nueva York que consiguió hacerse un hueco en el ejército personal de George Washington, ser elegido por el presidente como Secretario del Tesoro de los Estados Unidos, y convertirse en uno de los padres de la política económica norteamericana.",
+            "popularity": 23.899,
+            "poster_path": "/h1B7tW0t399VDjAcWJh8m87469b.jpg",
+            "release_date": "2020-07-03",
+            "title": "Hamilton",
+            "video": false,
+            "vote_average": 8.5,
+            "vote_count": 683
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nMKdUUepR0i5zn0y1T4CsSB5chy.jpg",
+            "genre_ids": [
+                18,
+                28,
+                80,
+                53
+            ],
+            "id": 155,
+            "original_language": "en",
+            "original_title": "The Dark Knight",
+            "overview": "Batman/Bruce Wayne regresa para continuar su guerra contra el crimen. Con la ayuda del teniente Jim Gordon y del Fiscal del Distrito Harvey Dent, Batman se propone destruir el crimen organizado en la ciudad de Gotham. El triunvirato demuestra su eficacia, pero, de repente, aparece Joker, un nuevo criminal que desencadena el caos y tiene aterrados a los ciudadanos.",
+            "popularity": 65.006,
+            "poster_path": "/tSIH3DTA4oFQDhPaJgHxxQZoqHh.jpg",
+            "release_date": "2008-07-16",
+            "title": "El caballero oscuro",
+            "video": false,
+            "vote_average": 8.5,
+            "vote_count": 24820
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tlEFuIlaxRPXIYVHXbOSAMCfWqk.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "id": 13,
+            "original_language": "en",
+            "original_title": "Forrest Gump",
+            "overview": "Forrest Gump es un chico con deficiencias mentales no muy profundas y con alguna incapacidad motora que, a pesar de todo, llegará a convertirse, entre otras cosas, en un héroe durante la Guerra del Vietnam. Su persistencia y bondad le llevarán a conseguir una gran fortuna, ser objeto del clamor popular y a codearse con las más altas esferas sociales y políticas del país. Siempre sin olvidar a Jenny, su gran amor desde que era niño.",
+            "popularity": 42.303,
+            "poster_path": "/azV6hV99lYkdhydsQbJCI6FqMl4.jpg",
+            "release_date": "1994-07-06",
+            "title": "Forrest Gump",
+            "video": false,
+            "vote_average": 8.5,
+            "vote_count": 20297
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pm0RiwNpSja8gR0BTWpxo5a9Bbl.jpg",
+            "genre_ids": [
+                12,
+                14,
+                28
+            ],
+            "id": 122,
+            "original_language": "en",
+            "original_title": "The Lord of the Rings: The Return of the King",
+            "overview": "Las fuerzas de Saruman han sido destruidas, y su fortaleza sitiada. Ha llegado el momento de que se decida el destino de la Tierra Media, y por primera vez en mucho tiempo, parece que hay una pequeña esperanza. La atención del señor oscuro Sauron se centra ahora en Gondor, el último reducto de los hombres, y del cual Aragorn tendrá que reclamar el trono para ocupar su puesto de rey. Pero las fuerzas de Sauron ya se preparan para lanzar el último y definitivo ataque contra el reino de Gondor, la batalla que decidirá el destino de todos. Mientras tanto, Frodo y Sam continuan su camino hacia Mordor, a la espera de que Sauron no repare en que dos pequeños Hobbits se acercan cada día más al final de su camino, el Monte del Destino.",
+            "popularity": 60.786,
+            "poster_path": "/mWuFbQrXyLk2kMBKF9TUPtDwuPx.jpg",
+            "release_date": "2003-12-01",
+            "title": "El señor de los anillos: El retorno del rey",
+            "video": false,
+            "vote_average": 8.5,
+            "vote_count": 17419
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hQQTE285UQB1lLY1XiioQ77LYnC.jpg",
+            "genre_ids": [
+                16,
+                35,
+                10749,
+                18,
+                14
+            ],
+            "id": 572154,
+            "original_language": "ja",
+            "original_title": "青春ブタ野郎はゆめみる少女の夢を見ない",
+            "overview": "En Fujisawa, donde los cielos son brillantes y los mares brillan, Sakuta Azusagawa está en su segundo año de secundaria. Sus días felices con su novia y estudiante de último año, Mai Sakurajima, se ven interrumpidos con la aparición de su primer amor, Shouko Makinohara. Por razones desconocidas, se encuentra con dos Shouko: una en la escuela secundaria y otra que se ha convertido en una adulta.  Cuando Sakuta se encuentra impotente viviendo con las dos Shouko, la versión adulta causa una gran grieta en su relación con Mai.  En medio de todo esto, descubre que la otra Shouko de escuela secundaria sufre de una enfermedad grave y su cicatriz comienza a latir ...",
+            "popularity": 166.553,
+            "poster_path": "/lyx0rfL4g6mfUJfSC17pEYXR3xW.jpg",
+            "release_date": "2019-06-15",
+            "title": "Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai",
+            "video": false,
+            "vote_average": 8.5,
+            "vote_count": 242
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6aNKD81RHR1DqUUa8kOZ1TBY1Lp.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 637,
+            "original_language": "it",
+            "original_title": "La vita è bella",
+            "overview": "En 1939, a punto de estallar la Segunda Guerra Mundial (1939-1945), el extravagante Guido llega a Arezzo, en la Toscana, con la intención de abrir una librería. Allí conoce a la encantadora Dora y, a pesar de que es la prometida del fascista Rodolfo, se casa con ella y tiene un hijo. Al estallar la guerra, los tres son internados en un campo de exterminio, donde Guido hará lo imposible para hacer creer a su hijo que la terrible situación que están padeciendo es tan sólo un juego.",
+            "popularity": 30.364,
+            "poster_path": "/kfRQ4X9z5eOXD1NbYR0JqlOlidJ.jpg",
+            "release_date": "1997-12-20",
+            "title": "La vida es bella",
+            "video": false,
+            "vote_average": 8.5,
+            "vote_count": 10026
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/alQqTpmEkxSLgajfEYTsTH6nAKB.jpg",
+            "genre_ids": [
+                12,
+                35
+            ],
+            "id": 40096,
+            "original_language": "pt",
+            "original_title": "O Auto da Compadecida",
+            "overview": "En el interior del estado de Paríba, en el pueblo de Taperoá, viven João Grilo y Chicó, dos tipos muy pobres que van anunciando por las calles la mejor película del mundo, 'La Pasión de Cristo'. La sesión tiene éxito y ellos ganan algo de dinero pero siguen luchando por la supervivencia. João Grilo y Chicó planean nuevas tretas para conseguir algún dinero y se enfrentan a numeroso desafíos provocando múltiples confusiones causadas por la astucia de João Grilo, siempre acompañado de Chicó.",
+            "popularity": 7.174,
+            "poster_path": "/m8eFedsS7vQCZCS8WGp5n1bVD0q.jpg",
+            "release_date": "2000-09-15",
+            "title": "O Auto da Compadecida",
+            "video": false,
+            "vote_average": 8.5,
+            "vote_count": 749
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/x4biAVdPVCghBlsVIzB6NmbghIz.jpg",
+            "genre_ids": [
+                37
+            ],
+            "id": 429,
+            "original_language": "it",
+            "original_title": "Il buono, il brutto, il cattivo",
+            "overview": "Durante la Guerra de Secesión, tres cazadores de recompensas se lanzan a la búsqueda de un tesoro que ninguno de los tres truhanes puede localizar sin la ayuda de los otros dos. Tuco sabe que el tesoro se encuentra en un cementerio, mientras que Joe conoce el nombre inscrito en la tumba que lo esconde. Mientras tanto, Sentenza no duda en matar a mujeres y niños para conseguir su meta. De esta forma, los tres hombres colaboran en apariencia, pero al final intentarán eliminarse mutuamente.",
+            "popularity": 28.409,
+            "poster_path": "/fSWnIXsxA47smMLwRELSWkxbVJ.jpg",
+            "release_date": "1966-12-23",
+            "title": "El bueno, el feo y el malo",
+            "video": false,
+            "vote_average": 8.5,
+            "vote_count": 5815
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zoVeIgKzGJzpdG6Gwnr7iOYfIMU.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 11216,
+            "original_language": "it",
+            "original_title": "Nuovo Cinema Paradiso",
+            "overview": "En un pequeño pueblo siciliano durante los años previos a la llegada de la televisión (justo al finalizar la Segunda Guerra Mundial) el joven Toto vivía fascinado por el cine. Toto trata de entablar amistad con Alfredo, el proyeccionista del cine local, una persona muy irritable pero con un gran corazón. Todos estos hechos se presentan en forma de nostálgicos recuerdos de Toto que ha crecido hasta convertirse en un cineasta de éxito, y que revive a su infancia cuando recibe la noticia de que Alfredo ha muerto.",
+            "popularity": 14.474,
+            "poster_path": "/hHwsr3t5n7VVUbPyU8VZswn0jkL.jpg",
+            "release_date": "1988-11-17",
+            "title": "Cinema Paradiso",
+            "video": false,
+            "vote_average": 8.5,
+            "vote_count": 2820
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rO4pfAIIrt3N905wTTe2HrH3uUv.jpg",
+            "genre_ids": [
+                18,
+                80
+            ],
+            "id": 311,
+            "original_language": "en",
+            "original_title": "Once Upon a Time in America",
+            "overview": "David Aaronson \"Noodles\", un pobre joven judío, conoce en los suburbios de principios del siglo XX de Manhattan, Nueva York, a Maximilian Bercovicz \"Max\", otro joven de origen hebreo dispuesto a llegar lejos por cualquier método. Entablan una gran amistad y forman, con los 3 colegas de \"Noodles\", Patrick Goldberg \"Patsy\", Philip Stein \"Cockeye\", y Dominic una banda que prospera rápidamente. Desgraciadamente, son perseguidos por Bugsy, el tipo para el que Noodles y sus amigos trabajaban anteriormente, y en uno de sus asaltos, mata a Dominic. Rápidamente Noodles se tira encima suyo y le mata, por lo que pasará 12 años en prisión. Cuando Noodles sale de prisión le recibe Max, que sigue con su banda junto a los otros 2 amigos, Patsy y Cockeye. Rápidamente, entre los 4, llegan a convertirse, en tiempos de la prohibición, en unos de los mayores gánsteres de todo el país.",
+            "popularity": 19.266,
+            "poster_path": "/u4VnqaxINtKVscmdldZsBojU6jm.jpg",
+            "release_date": "1984-05-23",
+            "title": "Érase una vez en América",
+            "video": false,
+            "vote_average": 8.5,
+            "vote_count": 3535
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bx326cwBtDsfDcnTgFlK5dXkyaC.jpg",
+            "genre_ids": [
+                10402,
+                18,
+                10749
+            ],
+            "id": 630566,
+            "original_language": "en",
+            "original_title": "Clouds",
+            "overview": "En esta inspiradora historia basada en hechos reales, el joven músico Zach Sobiech descubre que su cáncer se ha extendido y que le quedan pocos meses de vida. A pesar de eso, decide cumplir su sueño de grabar un álbum, sin saber que pronto se convertirá en un fenómeno viral. Al final, la música le da un nuevo sentido a la vida de Zach y le ayuda a despedirse de todos... con una canción que acabará escuchándose en todo el mundo.",
+            "popularity": 21.671,
+            "poster_path": "/d0OdD1I8qAfETvE9Rp9Voq7R8LR.jpg",
+            "release_date": "2020-10-09",
+            "title": "Clouds",
+            "video": false,
+            "vote_average": 8.4,
+            "vote_count": 661
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sw7mordbZxgITU877yTpZCud90M.jpg",
+            "genre_ids": [
+                18,
+                80
+            ],
+            "id": 769,
+            "original_language": "en",
+            "original_title": "GoodFellas",
+            "overview": "Henry, un niño de trece años de Brooklyn, vive fascinado con el mundo de los gángsters. Su sueño se hace realidad cuando entra a formar parte de la familia Pauline, dueña absoluta de la zona, que lo educan como un miembro más de la banda convirtiéndole en un destacado mafioso.",
+            "popularity": 24.55,
+            "poster_path": "/l80O2wzJRHQUPtlTlgVGVrlFtvg.jpg",
+            "release_date": "1990-09-12",
+            "title": "Uno de los nuestros",
+            "video": false,
+            "vote_average": 8.4,
+            "vote_count": 8760
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sJNNMCc6B7KZIY3LH3JMYJJNH5j.jpg",
+            "genre_ids": [
+                28,
+                18
+            ],
+            "id": 346,
+            "original_language": "ja",
+            "original_title": "七人の侍",
+            "overview": "Una banda de forajidos atemorizan a los habitantes de un pequeño pueblo, saqueándolos periódicamente sin piedad. Para repeler estos ataques, los aldeanos deciden contratar a mercenarios. Finalmente, consiguen los servicios de 7 guerreros, 7 samurais dispuestos a defenderlos a cambio, tan solo, de cobijo y comida.",
+            "popularity": 20.287,
+            "poster_path": "/zr4DkzWIMjaWtj6hlsbN6dnNeTX.jpg",
+            "release_date": "1954-04-26",
+            "title": "Los siete samuráis",
+            "video": false,
+            "vote_average": 8.4,
+            "vote_count": 2239
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kZGaVeXSkkvrpMYvD97sxHj291k.jpg",
+            "genre_ids": [
+                27,
+                18,
+                53
+            ],
+            "id": 539,
+            "original_language": "en",
+            "original_title": "Psycho",
+            "overview": "Una joven secretaria, tras cometer un robo, se marcha de la ciudad y conduce durante horas, parando para descansar en un pequeño motel de carretera regentado por un joven llamado Norman. Todo parece normal y tranquilo en el apartado motel y en la casa de al lado en la que viven Norman y su madre pero, mientras está en la ducha, la joven es asesinada salvajemente a cuchilladas.",
+            "popularity": 22.64,
+            "poster_path": "/dUaRGmVlqiw5HpdkkZYQb0X1mzW.jpg",
+            "release_date": "1960-06-22",
+            "title": "Psicosis",
+            "video": false,
+            "vote_average": 8.4,
+            "vote_count": 7215
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/inJjDhCjfhh3RtrJWBmmDqeuSYC.jpg",
+            "genre_ids": [
+                28,
+                878
+            ],
+            "id": 399566,
+            "original_language": "en",
+            "original_title": "Godzilla vs. Kong",
+            "overview": "Godzilla y Kong, dos de las fuerzas más poderosas de un planeta habitado por todo tipo de aterradoras criaturas, se enfrentan en un espectacular combate que sacude los cimientos de la humanidad. Monarch (Kyle Chandler) se embarca en una misión de alto riesgo y pone rumbo hacia territorios inexplorados para descubrir los orígenes de estos dos titanes, en un último esfuerzo por tratar de salvar a dos bestias que parecen tener las horas contadas sobre la faz de la Tierra.",
+            "popularity": 9975.169,
+            "poster_path": "/bnuC6hu7AB5dYW26A3o6NNLlIlE.jpg",
+            "release_date": "2021-03-24",
+            "title": "Godzilla vs Kong",
+            "video": false,
+            "vote_average": 8.4,
+            "vote_count": 3849
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sQkRiQo3nLrQYMXZodDjNUJKHZV.jpg",
+            "genre_ids": [
+                16,
+                28,
+                12,
+                14,
+                878
+            ],
+            "id": 618344,
+            "original_language": "en",
+            "original_title": "Justice League Dark: Apokolips War",
+            "overview": "Culminando seis años de una aventura que comenzó con el lanzamiento de Justice League: War en 2014, Justice League Dark: Apokolips War presenta un planeta Tierra totalmente devastado por el tirano intergaláctico Darkseid en el que los superhéroes apenas han podido hacer frente a la guerra. Los últimos bastiones de guerreros que aún quedan en pie deben reagruparse para crear una estrategia que les permita enfrentarse a Darkseid con el propósito de salvar al planeta y a sus pocos supervivientes. Esta es la guerra que acabará con todas las guerras.",
+            "popularity": 85.692,
+            "poster_path": "/c01Y4suApJ1Wic2xLmaq1QYcfoZ.jpg",
+            "release_date": "2020-05-05",
+            "title": "Liga de la Justicia Oscura: Guerra Apokolips",
+            "video": false,
+            "vote_average": 8.4,
+            "vote_count": 934
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rr7E0NoGKxvbkb89eR1GwfoYjpA.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 550,
+            "original_language": "en",
+            "original_title": "Fight Club",
+            "overview": "Un joven sin ilusiones lucha contra su insomnio, consecuencia quizás de su hastío por su gris y rutinaria vida. En un viaje en avión conoce a Tyler Durden, un carismático vendedor de jabón que sostiene una filosofía muy particular: el perfeccionismo es cosa de gentes débiles; en cambio, la autodestrucción es lo único que hace que realmente la vida merezca la pena. Ambos deciden entonces formar un club secreto de lucha donde descargar sus frustaciones y su ira que tendrá un éxito arrollador.",
+            "popularity": 40.134,
+            "poster_path": "/1yWmCAIGSVNuTOGyz9F48W9g1Ux.jpg",
+            "release_date": "1999-10-15",
+            "title": "El club de la lucha",
+            "video": false,
+            "vote_average": 8.4,
+            "vote_count": 21462
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6esNUoXh4xQvucB7o7e3TCfjI65.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "id": 522924,
+            "original_language": "en",
+            "original_title": "The Art of Racing in the Rain",
+            "overview": "El argumento está basado en la novela publicada por Garth Stein, la cual responde al mismo nombre que el filme. La historia combina diferentes sentimientos y situaciones comprometidas para la sociedad como son el dolor, la liberación, el cariño o el riesgo. Enzo, un perro que ha experimentado muchas aventuras interesantes a lo largo de su vida, es el personaje que pone voz a la película. Pese a no ser una persona de carne y hueso, este entrañable animal será capaz de dar diferentes lecciones a los seres humanos sobre cuál tendría que ser la manera adecuada de actuar sea cual sea la situación en la que se encuentren.",
+            "popularity": 29.29,
+            "poster_path": "/jqeLKlKpaS4v89dT9tLhkZRv14d.jpg",
+            "release_date": "2019-08-08",
+            "title": "El arte de vivir bajo la lluvia",
+            "video": false,
+            "vote_average": 8.4,
+            "vote_count": 787
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3KwAmIKMaDcBMonF5wmyNTL0SR6.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 510,
+            "original_language": "en",
+            "original_title": "One Flew Over the Cuckoo's Nest",
+            "overview": "Randle McMurphy (Jack Nicholson), un violador de espíritu libre, que vive contracorriente, es recluido en un hospital psiquiátrico. La inflexible disciplina del centro acentúa su contagiosa tendencia al desorden, que acabará desencadenando una guerra entre los pacientes y el personal de la clínica con la fría y severa enfermera Ratched (Louise Fletcher) a la cabeza. La suerte de cada paciente del pabellón está en juego.",
+            "popularity": 17.355,
+            "poster_path": "/yU7bnfzfhZoxkZRcJfTbhxfFJhg.jpg",
+            "release_date": "1975-11-18",
+            "title": "Alguien voló sobre el nido del cuco",
+            "video": false,
+            "vote_average": 8.4,
+            "vote_count": 7640
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/194dso1hBwQEgIU3fgS7mXHtFAj.jpg",
+            "genre_ids": [
+                18,
+                80
+            ],
+            "id": 598,
+            "original_language": "pt",
+            "original_title": "Cidade de Deus",
+            "overview": "Basada en hechos reales, cuenta la historia del crecimiento del crimen organizado en los suburbios de la ciudad de Río de Janeiro, desde finales de los años sesenta hasta el comienzo de los ochenta, cuando el tráfico de drogas y la violencia impusieron su ley entre la miseria de las favelas.“Buscapé” tiene 11 años y es sólo un niño más en Cidade de Deus, un suburbio de Río de Janeiro. Tímido y delicado, observa a los niños duros de su barrio, sus robos, sus peleas, sus enfrentamientos diarios con la policía. Ya sabe lo que quiere ser si consigue sobrevivir: fotógrafo. “Dadinho”, un niño de su misma edad, se traslada al barrio. Sueña con ser el criminal más peligroso de Río de Janeiro y empieza su aprendizaje haciendo recados para los delincuentes locales. Dos vidas paralelas en Cidade de Deus.",
+            "popularity": 23.314,
+            "poster_path": "/2MztAexSbCVszezV0bKMKZPJAZf.jpg",
+            "release_date": "2002-02-05",
+            "title": "Ciudad de Dios",
+            "video": false,
+            "vote_average": 8.4,
+            "vote_count": 5015
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/re3ZvlKJg04iLpLRf1xTKHS2wLU.jpg",
+            "genre_ids": [
+                16,
+                12,
+                35,
+                10751,
+                14,
+                10402,
+                28,
+                18
+            ],
+            "id": 537061,
+            "original_language": "en",
+            "original_title": "Steven Universe: The Movie",
+            "overview": "Ambientada dos años después de los acontecimientos acaecidos en la quinta temporada, un Steven de 16 años se enfrenta a un mundo repleto de novedades. Aunque cree que su papel como guardián de la Tierra ya ha terminado, una nueva amenaza se cierne sobre Beach City, por lo que el joven héroe tendrá que enfrentarse a su mayor desafío hasta la fecha.",
+            "popularity": 27.484,
+            "poster_path": "/8mRgpubxHqnqvENK4Bei30xMDvy.jpg",
+            "release_date": "2019-09-02",
+            "title": "Steven Universe: La película",
+            "video": false,
+            "vote_average": 8.4,
+            "vote_count": 557
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vJ3bHKFq6X6goxPJvZb7bEOdC9a.jpg",
+            "genre_ids": [
+                18,
+                35
+            ],
+            "id": 42269,
+            "original_language": "it",
+            "original_title": "C'eravamo tanto amati",
+            "overview": "Amarga crónica de la historia de Italia, desde la posguerra hasta los años setenta, narrada a través de un grupo de amigos de izquierdas que se conocieron cuando en 1944 lucharon contra los nazis. Este retrato del idealismo, pero también de la inevitable pérdida de las ilusiones a causa del acomodamiento burgués, fue el primer éxito internacional del realizador italiano Ettore Scola.",
+            "popularity": 10.797,
+            "poster_path": "/skGhz4SJrVzegKy4Xo7kVh8mpus.jpg",
+            "release_date": "1974-12-21",
+            "title": "Una mujer y tres hombres",
+            "video": false,
+            "vote_average": 8.4,
+            "vote_count": 324
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/23XAzEpKuKUFLW2aWANbuNmqSvL.jpg",
+            "genre_ids": [
+                28,
+                18,
+                36
+            ],
+            "id": 14537,
+            "original_language": "ja",
+            "original_title": "切腹",
+            "overview": "Un samurái pide permiso para practicarse el Seppuku (o Harakiri), ceremonia durante la cual se quitará la vida abriéndose el estómago al tiempo que otro samurái lo decapitará. Solicita también poder contar la historia que le ha llevado a tomar tan trágica decisión.",
+            "popularity": 9.183,
+            "poster_path": "/5OyHptbe0KVQqivUbYROpDJNJ5f.jpg",
+            "release_date": "1962-09-15",
+            "title": "Harakiri (Seppuku)",
+            "video": false,
+            "vote_average": 8.4,
+            "vote_count": 469
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/q5HZvtyqG8Vz39Ee9uTQbLeEml.jpg",
+            "genre_ids": [
+                16,
+                18,
+                10749
+            ],
+            "id": 378064,
+            "original_language": "ja",
+            "original_title": "映画 聲の形",
+            "overview": "La historia gira en torno a Shouko, una chica sorda que, al llegar a su nuevo colegio, es despreciada por sus compañeros y sobretodo por Shouya, un chico que también sufrirá acoso escolar después. Años más tarde, Shouya se siente en la obligación de reencontrarse con Shouko.",
+            "popularity": 88.772,
+            "poster_path": "/wIN7wlxyZTxqkstDodMUS9ABel8.jpg",
+            "release_date": "2016-09-17",
+            "title": "A Silent Voice",
+            "video": false,
+            "vote_average": 8.4,
+            "vote_count": 2265
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5nkKy7eEDsXqsxFLJy3GxZhE90J.jpg",
+            "genre_ids": [
+                16,
+                14,
+                10749,
+                18
+            ],
+            "id": 476292,
+            "original_language": "ja",
+            "original_title": "さよならの朝に約束の花をかざろう",
+            "overview": "Una historia de encuentros y despedidas entretejidos entre personas; este es un drama humano con sentimientos que tocan el corazón de forma gradual, que todos han experimentado al menos una vez.",
+            "popularity": 77.755,
+            "poster_path": "/hUJvmSl8EOFAYgXO1VfwNoQPRLX.jpg",
+            "release_date": "2018-02-24",
+            "title": "Maquia: Una historia de amor inmortal",
+            "video": false,
+            "vote_average": 8.4,
+            "vote_count": 337
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7d6EY00g1c39SGZOoCJ5Py9nNth.jpg",
+            "genre_ids": [
+                28,
+                12,
+                16,
+                878,
+                35
+            ],
+            "id": 324857,
+            "original_language": "en",
+            "original_title": "Spider-Man: Into the Spider-Verse",
+            "overview": "En un universo paralelo donde Peter Parker ha muerto, un joven de secundaria llamado Miles Morales es el nuevo Spider-Man. Sin embargo, cuando el líder mafioso Wilson Fisk (a.k.a Kingpin) construye el \"Super Colisionador\" trae a una versión alternativa de Peter Parker que tratará de enseñarle a Miles como ser un mejor Spider-Man. Pero no será el único Spider Man en entrar a este universo:  4 versiones alternas de Spider-Man aparecerán y buscarán regresar a su universo antes de que toda la realidad se colapse.",
+            "popularity": 89.977,
+            "poster_path": "/xRMZikjAHNFebD1FLRqgDZeGV4a.jpg",
+            "release_date": "2018-12-06",
+            "title": "Spider-Man: Un nuevo universo",
+            "video": false,
+            "vote_average": 8.4,
+            "vote_count": 9244
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/x5SRTwGtATzvFjRZXJxmitfqH4y.jpg",
+            "genre_ids": [
+                16,
+                18,
+                10752
+            ],
+            "id": 12477,
+            "original_language": "ja",
+            "original_title": "火垂るの墓",
+            "overview": "Verano de 1945. La aviación estadounidense somete las ciudades japonesas a continuos ataques aéreos. En uno de ellos, una incursión con bombas incendiarias convierte la ciudad de Kōbe en un infierno humeante, para los dos protagonistas (Seita, de 14 años, y su hermanita Setsuko, de 5). El joven Seita y su pequeña hermana Setsuko son hijos de un oficial de la marina japonesa. Durante la Segunda Guerra Mundial, ambos viven con su madre, pero un día, tras un bombardeo, ellos se retrasan y no consiguen llegar al búnker donde ella los espera.",
+            "popularity": 0.6,
+            "poster_path": "/ufXfPXN5Yr4tS1oawcXdTr3oXw4.jpg",
+            "release_date": "1988-04-16",
+            "title": "La tumba de las luciérnagas",
+            "video": false,
+            "vote_average": 8.4,
+            "vote_count": 3428
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/88J6waYVTta8Qz3iX3qUeWNA5d5.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 447362,
+            "original_language": "en",
+            "original_title": "Life in a Year",
+            "overview": "Sigue a Daryn, un adolescente de 17 años que tras descubrir que su novia se está muriendo, decide entregarse por completo a ella en lo que le reste de vida.",
+            "popularity": 172.655,
+            "poster_path": "/xGDbQI7Gtgurt9W5ez6Tim2lpS2.jpg",
+            "release_date": "2020-11-27",
+            "title": "Toda una vida en un año",
+            "video": false,
+            "vote_average": 8.4,
+            "vote_count": 471
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vwBa7djy1oxfxUjc7YtVgGNsjrT.jpg",
+            "genre_ids": [
+                14,
+                16,
+                12
+            ],
+            "id": 4935,
+            "original_language": "ja",
+            "original_title": "ハウルの動く城",
+            "overview": "Sophie es una joven de 18 años que trabaja sin descanso en la tienda de sombreros de la familia. En uno de sus frecuentes paseos conoce al enigmático mago Howl, lo que despierta la ira de la Bruja del Páramo, que odia a Howl con todas sus fuerzas. Cuando Sophie vuelve a la tienda, la Bruja se hace pasar por una clienta para acercarse a ella y lanzarle un hechizo… ¡que convierte a Sophie en una anciana de 90 años! Sophie, que no puede revelar su auténtica identidad, recurre a Howl para buscar una solución a su problema. Para ello se embarca en un viaje fantástico en el castillo ambulante del mago, habitado por personajes de lo más curioso. Sophie necesita ayuda pero quizás sea Howl el que realmente está en apuros.",
+            "popularity": 40.049,
+            "poster_path": "/4ZKg898UwrY8gn5T6ckdOatzYML.jpg",
+            "release_date": "2004-11-19",
+            "title": "El castillo ambulante",
+            "video": false,
+            "vote_average": 8.4,
+            "vote_count": 6259
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5qtOVAcBFogwktkseoZSfZVq6bx.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 3782,
+            "original_language": "ja",
+            "original_title": "生きる",
+            "overview": "Kanji Watanabe es un viejo funcionario público que arrastra una vida monótona y gris; sin embargo, no es consciente del vacío de su existencia hasta que le diagnostican un cáncer incurable. Con la certeza de que el fin de sus días se acerca, surge en él la necesidad de buscarle un sentido a la vida. Y cuando lo consigue se produce un cambio radical en su actitud respecto a los demás.",
+            "popularity": 10.185,
+            "poster_path": "/eDg67pLOtZAewt0hKIoinECpzCG.jpg",
+            "release_date": "1952-10-09",
+            "title": "Vivir",
+            "video": false,
+            "vote_average": 8.4,
+            "vote_count": 647
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/p47ihFj4A7EpBjmPHdTj4ipyq1S.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 599,
+            "original_language": "en",
+            "original_title": "Sunset Boulevard",
+            "overview": "Joe Gillis es un joven escritor de segunda fila que, acosado por sus acreedores, se refugia casualmente en la mansión de Norma Desmond, antigua estrella del cine mudo, que vive fuera de la realidad, acompañada únicamente de su fiel criado Max. A partir de ese momento, la actriz pretende que Joe corrija un guión que ella ha escrito y que va a significar su regreso al cine.",
+            "popularity": 12.328,
+            "poster_path": "/sVILYytrnjsEXBcZyxHMJ5jP74t.jpg",
+            "release_date": "1950-08-10",
+            "title": "El crepúsculo de los dioses",
+            "video": false,
+            "vote_average": 8.4,
+            "vote_count": 1644
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dMZxEdrWIzUmUoOz2zvmFuutbj7.jpg",
+            "genre_ids": [
+                12,
+                28,
+                878
+            ],
+            "id": 1891,
+            "original_language": "en",
+            "original_title": "The Empire Strikes Back",
+            "overview": "Tras un ataque sorpresa de las tropas imperiales a las bases camufladas de la alianza rebelde, Luke Skywalker, en compañía de R2D2, parte hacia el planeta Dagobah en busca de Yoda, el último maestro Jedi, para que le enseñe los secretos de la Fuerza. Mientras, Han Solo, la princesa Leia, Chewbacca, y C3PO esquivan a las fuerzas imperiales y piden refugio al antiguo propietario del Halcón Milenario, Lando Calrissian, en la ciudad minera de Bespin, donde les prepara una trampa urdida por Darth Vader.",
+            "popularity": 24.019,
+            "poster_path": "/zsZwahm4ktZPKX0B494CxqhbBhu.jpg",
+            "release_date": "1980-05-20",
+            "title": "La guerra de las galaxias. Episodio V: El imperio contraataca",
+            "video": false,
+            "vote_average": 8.4,
+            "vote_count": 12819
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7jTgJ24UPkWeb5zzH7ihs554xVy.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 914,
+            "original_language": "en",
+            "original_title": "The Great Dictator",
+            "overview": "Un humilde barbero judío tiene un parecido asombroso con el dictador de la nación Tomania, que promete sacar adelante y que culpa a los judíos de la situación del país. El dictador ataca al país fronterizo, pero es confundido con el barbero por sus propios guardias, siendo ingresado en un campo de concentración. Simultáneamente, el pobre barbero es confundido con el dictador...",
+            "popularity": 13.582,
+            "poster_path": "/s8361NjY3WBmG9OYcFXqUZ0iKHE.jpg",
+            "release_date": "1940-10-23",
+            "title": "El gran dictador",
+            "video": false,
+            "vote_average": 8.4,
+            "vote_count": 2268
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/o4Thn9ooTZAZOYrlbWgVB20weSf.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 73,
+            "original_language": "en",
+            "original_title": "American History X",
+            "overview": "Derek Vinyard (Edward Norton), es el líder de un grupo neonazi. La vida de Derek transcurre entre las acciones de su grupo (asaltar tiendas de inmigrantes, dar palizas a afroamericanos...) y su vida familiar: una madre enferma, una hermana, de ideas opuestas, y un hermano menor que lo idolatra. Derek es condenado por asesinato. Cuando sale de prisión, regresa a casa, dispuesto a empezar una nueva vida, pero descubre que su hermano (Edward Furlong) prosigue el camino que le metió en la cárcel.",
+            "popularity": 27.429,
+            "poster_path": "/y1bOldgPms4HHouTHz55Xcvm6tK.jpg",
+            "release_date": "1998-10-30",
+            "title": "American History X",
+            "video": false,
+            "vote_average": 8.4,
+            "vote_count": 8521
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9xeEGUZjgiKlI69jwIOi0hjKUIk.jpg",
+            "genre_ids": [
+                16,
+                28,
+                14
+            ],
+            "id": 664767,
+            "original_language": "en",
+            "original_title": "Mortal Kombat Legends: Scorpion's Revenge",
+            "overview": "Basado en el popular videojuego creado por Ed Boon y John Tovias, Mortal Kombat Legends: Scorpion’s Revenge pone el foco en un torneo único que se celebra una vez por generación y en el que se enfrentan los campeones de distintos reinos. El ganador determinará el destino de la Tierra y de sus habitantes.",
+            "popularity": 807.367,
+            "poster_path": "/4VlXER3FImHeFuUjBShFamhIp9M.jpg",
+            "release_date": "2020-04-12",
+            "title": "Mortal Kombat Legends: La venganza de Scorpion",
+            "video": false,
+            "vote_average": 8.4,
+            "vote_count": 824
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fRGxZuo7jJUWQsVg9PREb98Aclp.jpg",
+            "genre_ids": [
+                18,
+                10402
+            ],
+            "id": 244786,
+            "original_language": "en",
+            "original_title": "Whiplash",
+            "overview": "El objetivo de Andrew Neiman, un joven y ambicioso baterista de jazz, es triunfar en el elitista Conservatorio de Música de la Costa Este en el que estudia. Marcado por el fracaso de la carrera literaria de su padre, Andrew alberga sueños de grandeza. Terence Fletcher, un profesor conocido tanto por su talento como por sus rigurosos métodos de enseñanza, dirige el mejor conjunto de jazz del Conservatorio. Cuando Fletcher elige a Andrew y para formar parte del conjunto musical que dirige, cambia para siempre la vida del joven. La pasión de Andrew por alcanzar la perfección se convierte en obsesión, al tiempo que su despiadado profesor lo lleva al límite de su capacidad y de su salud mental.",
+            "popularity": 40.315,
+            "poster_path": "/6uSPcdGNA2A6vJmCagXkvnutegs.jpg",
+            "release_date": "2014-10-10",
+            "title": "Whiplash",
+            "video": false,
+            "vote_average": 8.4,
+            "vote_count": 10910
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/A7r8GRpvOojI2Vl5EEJfAIfzCg9.jpg",
+            "genre_ids": [
+                18,
+                10752
+            ],
+            "id": 423,
+            "original_language": "en",
+            "original_title": "The Pianist",
+            "overview": "Varsovia, 1939. El pianista polaco de origen judío Wladyslaw Szpilman (Adrien Brody) interpreta un tema de Chopin en la radio nacional de Polonia mientras la aviación alemana bombardea la capital. El régimen nazi ha invadido el país, y como hace en otros países invadidos, lleva a cabo la misma política con respecto a los judíos. Así Szpilman y toda su familia -sus padres, su hermano y sus dos hermanas- se ven obligados a dejar su casa y todo lo que les pertenece para trasladarse con miles de personas de origen judío al ghetto de Varsovia. Mientras Wladyslaw trabaja como pianista en un restaurante propiedad de un judío que colabora con los nazis, su hermano Henryk (Ed Stoppard) prefiere luchar contra los nazis. Pero tres años más tarde, los habitantes del ghetto son trasladados en trenes hacia campos de concentración.",
+            "popularity": 26.471,
+            "poster_path": "/mxfLOWnHnSlbdraKfzRn5mqoqk7.jpg",
+            "release_date": "2002-09-17",
+            "title": "El pianista",
+            "video": false,
+            "vote_average": 8.4,
+            "vote_count": 6246
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qknxyRgP6UTmwJ4B9tDAmzHMq7u.jpg",
+            "genre_ids": [
+                10749,
+                16,
+                14
+            ],
+            "id": 92321,
+            "original_language": "ja",
+            "original_title": "蛍火の杜へ",
+            "overview": "Cuando era pequeña, Hotaru se perdió en el bosque cerca del lugar donde va todos los veranos, la casa de su tío. Allí tuvo un extraño encuentro con Gin que la ayuda a encontrar el camino de vuelta. Gin es un joven que lleva una máscara blanca y que, debido a un hechizo, no puede ser tocado por ningún humano. Ella empieza a visitarlo todos los veranos según va creciendo, mientras espera la llegada del verano, para que su tiempo juntos continúe.",
+            "popularity": 0.6,
+            "poster_path": "/9uC8PR59ZARMqlK0QKZumBEm4Ll.jpg",
+            "release_date": "2011-09-17",
+            "title": "En el bosque de la luz de las luciérnagas",
+            "video": false,
+            "vote_average": 8.4,
+            "vote_count": 532
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wooZWiC4NWH0ahCSUOogEmVejHo.jpg",
+            "genre_ids": [
+                35,
+                10751
+            ],
+            "id": 640344,
+            "original_language": "it",
+            "original_title": "Me contro Te: Il film - La vendetta del Signor S",
+            "overview": "",
+            "popularity": 6.448,
+            "poster_path": "/sfeQTIRkJjWt8IPDSBcPqkrcaas.jpg",
+            "release_date": "2020-01-17",
+            "title": "Me contro Te: Il film - La vendetta del Signor S",
+            "video": false,
+            "vote_average": 8.4,
+            "vote_count": 394
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/AfyuI3glMCBDFmNPj9PY6DwbgGp.jpg",
+            "genre_ids": [
+                18,
+                878,
+                16,
+                28
+            ],
+            "id": 18491,
+            "original_language": "ja",
+            "original_title": "新世紀エヴァンゲリオン劇場版 THE END OF EVANGELION",
+            "overview": "Segunda de las 2 películas, \"Neon Genesis Evangelion: Death & Rebirth\", que trataban de dar un cierre a la altura de la serie Neon Genesis Evangelion, pues terminó de una forma críptica y hermética con su último capítulo 26, duramente criticado. La segunda parte, \"Rebirth\",  duraba 27 minutos y trataba los capítulos 25 y 26. Se estrenó en cines en 1997 y fue todo un éxito de taquilla en Japón. Y aún así, supo a poco, así que se reinterpretaron y reeditaron de nuevo esos dos episodios en una nueva película llamada The End of Evangelion que duraba hora y media y daba a toda la historia un final aún más oscuro.",
+            "popularity": 26.803,
+            "poster_path": "/9jbxvKB937BWeYAmMKZTqPxBLsk.jpg",
+            "release_date": "1997-07-19",
+            "title": "Neon Genesis Evangelion: The End of Evangelion",
+            "video": false,
+            "vote_average": 8.4,
+            "vote_count": 737
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ps82zgSDimvlYps6otcMYshrVyS.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "id": 901,
+            "original_language": "en",
+            "original_title": "City Lights",
+            "overview": "Un pobre vagabundo (Charles Chaplin) pasa mil y un avatares para conseguir dinero y ayudar a una pobre chica ciega (Virginia Cherill) de la que se ha enamorado.",
+            "popularity": 10.6,
+            "poster_path": "/wxW2UZapaGSlycekS8ON5yQeldZ.jpg",
+            "release_date": "1931-02-01",
+            "title": "Luces de la ciudad",
+            "video": false,
+            "vote_average": 8.4,
+            "vote_count": 1388
+        }
+    ]

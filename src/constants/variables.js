@@ -1,0 +1,1 @@
+export const PATH_IMAGE_w300 = 'http://image.tmdb.org/t/p/w300/'
